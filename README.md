@@ -23,6 +23,7 @@ I'm Mobile Developer from Bogor, Indonesia
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdJalal&show_icons=true&theme=onedark&line_height=27" alt="Muhamad Jalaludin github stats" />
 </a>
+</details>
 *This metric is just for fun. Doesn't show my skill level.*
 
-<img src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" width="30px"> See my other repos on [Gitlab](https://gitlab.com/users/mhmdjalal_/projects)
+<img src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" width="20px"> See my other repos on [Gitlab](https://gitlab.com/users/mhmdjalal_/projects)
